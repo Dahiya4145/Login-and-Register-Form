@@ -27,7 +27,7 @@ This repository contains a simple Login and Register form layout designed using 
 
 3. Open `index.html` in your preferred web browser to view the login and register forms.
 
-
+4. Alternatively, use the live preview link: (https://dahiya4145.github.io/Login-and-Register-Form/)
 
 
 ## Contact
